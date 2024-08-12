@@ -32,7 +32,9 @@ html, body {
 	font-family: 'Brush Script MT', cursive;
 	font-size: 80px;
 	color: white;
-	text-align: center
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 2px 2px 4px rbga(0, 0, 0, 0.5)
 }
 
 table, td {
